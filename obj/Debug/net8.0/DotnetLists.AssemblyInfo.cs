@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e331eb9fe36180b9c4c0b41cfe36940618e9b88d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df3be59a5e11d8df454527af29631ad15d9451a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
