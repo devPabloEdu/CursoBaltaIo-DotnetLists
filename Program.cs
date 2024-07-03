@@ -12,7 +12,7 @@ namespace DotnetLists
             var meuArray = new int[5] {1, 2, 3, 4, 5};
             //meuArray[0] = 12;
             //Console.WriteLine(meuArray[0]);
-            for (int i = 0; i < meuArray.Length; i++ ){
+            for (var i = 0; i < meuArray.Length; i++ ){
                 Console.WriteLine(meuArray[i]);
             }
         }
