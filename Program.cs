@@ -13,7 +13,7 @@ namespace DotnetLists
             //meuArray[0] = 12;
             //Console.WriteLine(meuArray[0]);
             for (var i = 0; i < meuArray.Length; i++ ){
-                Console.WriteLine(meuArray[i]);
+                Console.WriteLine($"index {i} = {meuArray[i]}");
             }
         }
     }
